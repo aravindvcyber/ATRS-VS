@@ -1,4 +1,0 @@
-D:\Git\VS10\Git\ATRS-VS\ATRS\DataAccess.Layer\bin\Debug\DataAccess.Layer.dll
-D:\Git\VS10\Git\ATRS-VS\ATRS\DataAccess.Layer\bin\Debug\DataAccess.Layer.pdb
-D:\Git\VS10\Git\ATRS-VS\ATRS\DataAccess.Layer\obj\Debug\DataAccess.Layer.dll
-D:\Git\VS10\Git\ATRS-VS\ATRS\DataAccess.Layer\obj\Debug\DataAccess.Layer.pdb

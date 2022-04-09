@@ -1,4 +1,0 @@
-D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Object\bin\Debug\Business.Object.dll
-D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Object\bin\Debug\Business.Object.pdb
-D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Object\obj\Debug\Business.Object.dll
-D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Object\obj\Debug\Business.Object.pdb
